@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "pyworks-medialibrary"
 version = "0.1.0"
-description = "Provide awsome tools for manage image and document files."
+description = "Provide awsome tools for manage images and documents."
 authors = [
-    "PyWorks Asia <opensource@pyworks.asia>"
+    "PyWorks Asia Team <opensource@pyworks.asia>"
 ]
 license = "MIT"
 readme = 'README.md'

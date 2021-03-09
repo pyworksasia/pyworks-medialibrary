@@ -1,5 +1,5 @@
-from medialibrary.config import config
-from medialibrary.s3_storage import AWSS3Storage
+from pyworks_medialibrary.config import config
+from pyworks_medialibrary.s3_storage import AWSS3Storage
 
 class Storage:
 

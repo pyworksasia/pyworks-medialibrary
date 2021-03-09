@@ -1,8 +1,8 @@
 import uuid
 import boto3
 from os.path import basename
-from medialibrary.config import config
-from medialibrary.interfaces import StorageInterface
+from pyworks_medialibrary.config import config
+from pyworks_medialibrary.interfaces import StorageInterface
 
 
 class AWSS3Storage(StorageInterface):
